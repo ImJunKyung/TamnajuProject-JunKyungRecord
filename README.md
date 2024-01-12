@@ -1,1 +1,13 @@
-# TamnajuProject-JunKyungRecord
+# 저의 첫, 팀 프로젝트 진행에 대한 스스로의 기록을 남깁니다.
+
+## 주제
+### 제주도의 실시간 날씨 정보와, 관광지의 위치 그리고 간단한 소통형 게시판의 구현
+
+## 저의 파트
+### 프론트 전체 + 백엔드 로직 일부 구현 + DB
+
+## 팀원 파트
+### 벡앤드의 MVC패턴 구성 및 보안 처리 + DB
+
+## 기술 스택
+### JAVA , SPRING BOOT, MyBatis, MARIA DB, JAVASCRIPT, HTML + CSS..
